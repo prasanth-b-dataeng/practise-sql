@@ -1,1 +1,1 @@
-select * from staging.customers limit 100
+select * from staging.customers limit 20
